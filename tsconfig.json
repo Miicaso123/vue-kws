@@ -15,7 +15,8 @@
     "baseUrl": ".",
     "paths": {
       "@/*": ["src/*"]
-    }
+    },
+    "types": ["vue"]
   },
   "include": ["src/**/*", "src/**/*.vue"],
   "exclude": ["node_modules"]
